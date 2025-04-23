@@ -1,0 +1,46 @@
+ENTIDADES:
+	JUGADOR
+		- NIE
+		- NOMBRE
+		- CORREO
+		- DIRECCIÓN
+		- FECHA DE NACIMIENTO 
+		- FECHA DE REGISTRO
+		- NIVEL DE JUGADOR
+		---------------------
+		
+		gtNIE() 	
+		getNombre() 
+		getCorreo() 
+		getDirección() 
+		getFnac() 
+		getFechaApunta() 
+		getNivel() 
+		setNIE() 
+		setNombre() 
+		setCorreo() 
+		setDirección() 
+		setFnac() 
+		setFecha()
+		setNivel()
+		hashCode()
+		equals() 
+		obtenerPercetnageVictorias()
+		
+	EQUIPO
+		- LISTA DE JUGADORES
+		- NUMERO DEL EQUIPO
+		- NOMBRER DEL EQUIP
+		- CLASIFICACIÓN DEL EQUIPO
+		----------------------------	
+		getEquipoNombre() 
+		getClasificación() 
+		getNumeroEquipo() 
+		setNumeroEquipo() 
+		setEquipoNombre() 
+		setClasificación() 
+		listaJugadores() 
+		partidos() 
+		añadirJugador 
+		numPartidosGanado() 
+		
